@@ -4,7 +4,12 @@
   I'm a Computer Science student at IIIT Nagpur, specializing in Human Computer Interaction and Gaming. 
   <br />
   I am passionate about backend development, problem-solving, and building scalable applications.
+  <br /><br />
+  <a href="https://vedantrajput-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
