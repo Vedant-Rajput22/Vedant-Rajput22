@@ -25,7 +25,6 @@
 ```javascript
 const vedant = {
     education: "B.Tech CSE @ IIIT Nagpur (HCI Specialization) | CGPA: 8.46",
-    currentRole: "Backend Engineer Intern @ Triveni Global",
     expertise: ["Backend Development", "Full Stack", "System Design", "DSA"],
     research: "IEEE Paper on Hybrid Metaheuristic Optimization (Under Review)",
     superpower: "Turning caffeine into production-ready APIs ☕→🚀"
